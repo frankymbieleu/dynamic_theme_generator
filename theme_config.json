@@ -1,0 +1,18 @@
+{
+  "primaryLight": "#1976D2",
+  "primaryDark": "#90CAF9",
+  "secondaryLight": "#03DAC6",
+  "secondaryDark": "#03DAC6",
+  "errorLight": "#B00020",
+  "errorDark": "#CF6679",
+  "surfaceLight": "#FFFBFE",
+  "surfaceDark": "#121212",
+  "backgroundLight": "#FFFBFE",
+  "backgroundDark": "#121212",
+  "onPrimaryLight": "#FFFFFF",
+  "onPrimaryDark": "#003258",
+  "onSurfaceLight": "#1C1B1F",
+  "onSurfaceDark": "#E6E1E5",
+  "fontFamily": "Roboto",
+  "baseFontSize": 16.0
+}
