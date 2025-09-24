@@ -1,5 +1,5 @@
 name: dynamic_theme_generator
-description: "Plugin pour la génération de thème pour flutter"
+description: A Flutter package to generate dynamic themes from JSON configuration, supporting light and dark themes.
 version: 0.0.1
 homepage:
 
@@ -10,11 +10,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  path: ^1.8.3
+  args: ^2.4.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^3.0.0
+
+executables:
+  dynamic_theme_generator:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
